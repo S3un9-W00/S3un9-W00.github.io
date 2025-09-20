@@ -38,7 +38,7 @@ author_education_details:
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
-                visibility: true
+                visibility: false
 
 # Projects
 author_project_details:
@@ -46,17 +46,17 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: 
 github_username:  S3un9-W00
-instagram_username: _lean_beef_patty_
+instagram_username: _lean_beaf_patty_
 # facebook_username: johndoe
 # linkedin_username: johndoe
 # behance_username: johndoe
