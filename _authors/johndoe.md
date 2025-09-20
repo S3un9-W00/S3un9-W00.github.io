@@ -1,31 +1,13 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
-social:
-    - title: "github"
-      url: "https://github.com/johndoe"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
-    - title: "behance"
-      url: "https://behance.com/johndoe"
-    - title: "instagram"
-      url: "https://instagram.com/johndoe"
-    - title: "medium"
-      url: "https://medium.com/johndoe"
-    - title: "telegram"
-      url: "https://telegram.com/johndoe"
-    - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
+   name: 안승우
+   username: S3un9-W00
+   site: http://S3un9-W00.github.io
+   avatar: johndoe.png
+   bio: "안녕하십니까, 저는 성일정보고등학교에 재학중인 소년(18세) 개발자 안승우입니다 ^_^"
+   email: anseungu56@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/S3un9-W00"
+      - title: "instagram"
+        url: "https://instagram.com/_lean_beaf_patty_/"
 ---
