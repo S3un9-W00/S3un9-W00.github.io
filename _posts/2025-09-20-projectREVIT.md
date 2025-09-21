@@ -4,7 +4,7 @@ title:  "Revit API를 활용한 콘크리트 기둥 철근 설치 자동화(팀 
 summary: "Installing Concrete Components Using the Revit API (Team Project)"
 author: 안승우
 date: '2025-09-20'
-category: ['revit', 'portfolio', 'team project', 'automation program']
+category: ['revit', 'portfolio', 'team_project', 'automation_program']
 thumbnail: /assets/img/projectREVIT_2.png
 usemathjax: true
 permalink: /blog/projectREVIT/

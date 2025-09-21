@@ -4,7 +4,7 @@ title:  "간단한 보안관제 SIEM 시스템(개인)"
 summary: "Simple Seculity Control SIEM System(Personal)"
 author: 안승우
 date: '2025-09-19'
-category: ['security','solo_project', 'portfolio']
+category: ['security_control','solo_project', 'portfolio']
 thumbnail: /assets/img/projectSIEM.png
 usemathjax: true
 permalink: /blog/projectSIEM/

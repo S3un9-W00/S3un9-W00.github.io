@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 인사
+title: 포트폴리오
 permalink: /blog/categories/portfolio/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
-
 <div class="card">
 {% for post in site.categories.portfolio %}
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
