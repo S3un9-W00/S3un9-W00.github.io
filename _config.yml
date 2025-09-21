@@ -21,7 +21,11 @@ urls:
 
 author_logo: profile.png
 author: 안승우
-author_bio: 안녕하세요! 성일정보고등학교에 재학중인 안승우입니다.
+author_bio: 안녕하세요. 성일정보고등학교에 재학 중인 안승우입니다.  
+            13세 때부터 프로그래밍을 시작하여, 웹 개발과 인공지능, 그리고 보안 분야까지 꾸준히 경험을 쌓아왔습니다.  
+            특히 Revit API 자동화, 감정 분석 AI, 웹 보안 프로젝트 등 다양한 프로젝트를 진행하며 실무적인 역량을 키워왔습니다.  
+            앞으로는 다양한 개발 분야에서 전문성을 갖춘 개발자로 성장하고자 합니다.
+
 author_email: "anseungu56@gmail.com"
 author_location: Korea, South
 author_website_url: "https://S3un9-W00.github.io"
