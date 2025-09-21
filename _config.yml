@@ -3,7 +3,7 @@ subtitle: 안녕하십니까, 저는 성일정보고등학교에 개발계의 �
 description: >- # this means to ignore newlines until "baseurl:"
   저의 많은 스펙과 경험을 통해 앞으로 열심히 하는 모습과 좋은 모습 보여드리겠습니다.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://S3un9-W00.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -19,7 +19,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: MyProfile.jpeg
 author: 안승우
 author_bio: 안녕하세요. 성일정보고등학교에 재학 중인 안승우입니다.  
             13세 때부터 프로그래밍을 시작하여, 웹 개발과 인공지능, 그리고 보안 분야까지 꾸준히 경험을 쌓아왔습니다.  
@@ -37,25 +37,30 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: false
+              - college_logo: seongil.webp
+                college_name: 성일정보고등학교
+                college_url: https://www.sungil.hs.kr
+                college_degree: 학생
+                description: 성일정보고등학교에 재학중입니다.
+                visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: false
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: false
+              - project_thumbnail: projectSIEM.png
+                project_title: 간단한 보안관제 SIEM 시스템(개인)
+                project_description: 간단하게 로그에 수상한 활동이 있으면 감지하고 테이블과 그래프에 띄어주는 시스템.
+                project_url: 
+                visibility: true
+              - project_thumbnail: projectBOARD.png
+                project_title: 간단한 게시판 사이트(개인)
+                project_description: 로그인 & 회원가입 기능과 로그인을 해야지만 글을 쓸수 있는 간단한 게시판 사이트.
+                project_url: 
+                visibility: true
+              - project_thumbnail: projectREVIT.png
+                project_title: Revit API를 활용한 콘크리트 기둥 철근 설치 자동화(팀 프로젝트)
+                project_description: Revit API를 활용하여 콘크리트 기둥에 철근을 자동으로 배치해주는 프로그램.
+                project_url: 
+                visibility: true
 
 # social links
 twitter_username: 
