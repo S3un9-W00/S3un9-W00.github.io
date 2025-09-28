@@ -3,7 +3,7 @@ layout: post
 title:  "간단한 Rust 코드를 Stack VM 코드로 변환해주는 컴파일러(팀 프로젝트)"
 summary: "Simple Ryst to Stack VM compiler(Team project)"
 author: 안승우
-date: '2025-09-23'
+date: '2025-09-26'
 category: ['rust','team_project', 'portfolio', 'compiler']
 thumbnail: /assets/img/projectCOMPILER_V2.png
 usemathjax: true

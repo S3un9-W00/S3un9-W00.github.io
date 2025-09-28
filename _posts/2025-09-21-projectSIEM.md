@@ -59,7 +59,7 @@ FLASK, SQLITE3, MATPLOTLIB, PANDAS, REQUESTS
 
 ## 앞으로의 개선 방향
   
-- 자동 경보 시스템 (Slack, Discord 연동)  
+- 자동 경보 시스템
 - 글씨 깨진거 고치기
 
 ---
