@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "CLI Chatbot: LangChain & OpenAI 기반 대화형 챗봇"
-summary: "Conversational chatbot with memory, built using LangChain and OpenAI API"
+title:  "CLI Chatbot: LangChain & OpenAI 기반 대화형 챗봇(개인)"
+summary: "Conversational chatbot with memory, built using LangChain and OpenAI API(Personal)"
 author: 안승우
 date: '2025-09-29'
 category: ['python','portfolio','ai','langchain','openai', 'solo_project']
